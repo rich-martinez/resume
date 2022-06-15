@@ -1,4 +1,4 @@
-# Rich Martinez
+# Rich Martinez Resume
 ## Contact 
 [richard.i.martinez.jr@gmail.com] | [GitHub]
 
