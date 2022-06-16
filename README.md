@@ -10,7 +10,8 @@
   * Created a TypeScript & Mountebank application of virtualized services, using ECR, ECS, and EKS to represent service dependencies of the Rocket Mortgage Origination frontend. 
     * For request logging with Mountebank, the virtualized services integrated with a TypeScript Lambda, behind APIGateway with a defined OpenAPI contract, that accepts Mountebank requests and logs them to an S3 bucket.
     * Created a TypeScript CLI to autogenerate the boilerplate infrastructure, boilerplate TypeScript application for each virtualized service, and CircleCI config updates.
-    * Thoroughly documented with many examples covering the why of the application, how to set up new virtualized services, updating existing virtualized services, and infrastructure overview. 
+    * Thoroughly documented with many examples covering the why of the application, how to set up new virtualized services, updating existing virtualized services, and infrastructure overview.
+  * Update authentication for Rocket Mortgage Origination Admin Panel to use Auth0 Angular, and update active directory authorization groups.  
 * CI/CD Improvements
   * Created a Composer package called code-quality-tools that was a collection of the Rocket Mortgage Origination CI/CD scripts, to be reusable among all Rocket Mortgage Origination CI/CD pipelines. Thoroughly documented readme that provided examples of how to use each script and provided a commonly used template for a collection of composer.json scripts that mapped to the CI/CD script and made it easy to run things locally as well as in the pipelines.
   * Created a merge freeze continuous integration script written in TypeScript that automated blocking pull requests from being merged during a merge freeze.
