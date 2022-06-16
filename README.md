@@ -3,7 +3,7 @@
 [richard.i.martinez.jr@gmail.com] | [GitHub]
 
 ## Experience
-### Senior Software Engineer, Quicken Loans
+### Senior Software Engineer, Rocket Mortgage (formerly Quicken Loans)
 #### November 2019 - June 2022
 * System Design
   * For prioritizing service virtualization: Created a roadmap, and architecture design diagram, worked with stakeholders to create a feature estimation with the Weighted Shortest Job First scale and created the features and stories with well-defined acceptance criteria.
@@ -36,7 +36,7 @@
   * Answered technical questions, offered to pair program with software engineers to share knowledge, and helped prepare junior software engineers for promotional interviews.
 
 
-### Software Engineer, Quicken Loans
+### Software Engineer, Rocket Mortgage (formerly Quicken Loans)
 #### June 2017 - November 2019
 * Development LifeCycle Improvements
   * Helped develop, document, and diagram a new standard for the development process, including branching strategy, automated deployment to lower environments, and pull request code quality requirements.
@@ -54,7 +54,7 @@
   * Advised the Rocket Mortgage Origination backend team on a plan to transition TFS version control to Git version control, which included transferring commits, branching strategy, Git commands, and merging strategy & code quality checks.
 
 
-### UI Developer, Quicken Loans
+### UI Developer, Rocket Mortgage (formerly Quicken Loans)
 #### August 2014 - June 2017
 * Fully Redesign the One Reverse Mortgage frontend
   * Collaborated with the design team to create a One Reverse Mortgage style guide for all the one reverse mortgage products both internal and external.
@@ -77,7 +77,7 @@
 * Contributed to JavaScript Standards Group
   * Helped create standards for things like client-side frameworks and associated technologies, linting, and BFF layer technologies.
 
-### Web Developer Internship, Quicken Loans
+### Web Developer Internship, Rocket Mortgage (formerly Quicken Loans)
 #### May 2014 - August 2014
 * Created and managed internal WordPress websites
   * Created custom themes with LESS
