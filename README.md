@@ -127,6 +127,6 @@
 * Associate of Business - August 2009
   * Major - Graphic Communications
 
-[GitHub]: https://github.com/richardmartinez
+[GitHub]: https://github.com/rich-martinez
 [richard.i.martinez.jr@gmail.com]: mailto:richard.i.martinez.jr@gmail.com
-[Remove Stale Branches CLI]: https://github.com/richardmartinez/remove-stale-branches
+[Remove Stale Branches CLI]: https://github.com/rich-martinez/remove-stale-branches
